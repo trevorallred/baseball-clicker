@@ -2,6 +2,7 @@
 
 In the project directory, you can run:
 
-### `pnpm start`
-### `pnpm test`
-### `pnpm run build`
+### `npm install`
+### `npm start`
+### `npm test`
+### `npm run build`

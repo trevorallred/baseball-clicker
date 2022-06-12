@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel -p 3000",
     "build": "parcel build",
-    "test": "react-scripts test"
+    "test": "jest test"
   },
   "dependencies": {
     "@headlessui/react": "^1.5.0",
